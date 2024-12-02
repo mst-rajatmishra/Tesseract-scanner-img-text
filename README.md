@@ -1,0 +1,1 @@
+# teceract-scanner-img-text
