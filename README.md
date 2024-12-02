@@ -1,1 +1,1 @@
-# teceract-scanner-img-text
+# Tesseract-scanner-img-text
